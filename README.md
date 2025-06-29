@@ -43,14 +43,6 @@ This architecture allows complete stateless, serverless, scalable deployment wit
 
 ---
 
-👥 Team Members
-1. Gunde Sandeep
-
-2. Chitti Udaya Sathwika
-
-3. Kunchala Rishitha
-
-4. Thatikonda Sasya
 
 ---
 
@@ -81,12 +73,17 @@ Response (After use):
 {
   "error": "❌ This link has expired or does not exist."
 }
-Team details:
 
-Gunde Sandeep (Team Lead)
-Kunchala Rishitha
-Chitti Udaya Sathvika
-Thatikonda Sasya
+
+👥 Team Members
+1. Gunde Sandeep
+
+2. Chitti Udaya Sathwika
+
+3. Kunchala Rishitha
+
+4. Thatikonda Sasya
+
 
 📝 License:
 This project is licensed under the MIT License.
