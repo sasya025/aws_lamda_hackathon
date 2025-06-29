@@ -76,7 +76,8 @@ Response (After use):
 
 
 👥 Team Members
-1. Gunde Sandeep
+
+1. Gunde Sandeep(lead)
 
 2. Chitti Udaya Sathwika
 
